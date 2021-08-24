@@ -1,1 +1,1 @@
-A bot to trade bitcoins or whatever and learn OCaml.
+Trying https://medium.com/@aleksandrasays/deploying-ocaml-server-on-heroku-f91dcac11f11
